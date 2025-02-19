@@ -22,7 +22,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hivda.bozan" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/hivda-bozan-14b711241/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="hivda-bozan" height="30" width="40" />
+    <img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg](https://www.linkedin.com/in/hivda-bozan/)" alt="hivda-bozan" height="30" width="40" />
   </a>
 </p>
 
